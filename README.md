@@ -8,11 +8,11 @@ I used GeoPandas to create monthly maps of the U.S. and incorporated Photoshop t
 
 ## What is Google Mobility Data? 
 Google tracks the majority of us (unless you opt out), and that cozy convenient feature that we use - GPS - is feeding these datasets which I had the pleasure to analyze. 
-In this repo, I only show a sample of one of 3 input files `Sample of 2022_US_Region_Mobility_Report - 2022_US_Region_Mobility_Report` as they are too big to be accepted by GitHub. Full sizes are available in my Google disk, please ask for them: [email](mailto:xeniya.shoiko@outlook.com). The pandemic affected different sectors of the economy differently. Technology and e-commerce companies, for example, benefited from increased demand for online services, while industries like travel, hospitality, and energy faced significant challenges. Given the nature of data, this is a view on only physical mobility in/out of retail spaces and not the industry as a whole.
+In this repo, I only show a sample of one of 3 input files: `Sample of 2022_US_Region_Mobility_Report - 2022_US_Region_Mobility_Report` as they are too big to be accepted by GitHub. Full sizes are available in my Google disk, please ask for them: [email](mailto:xeniya.shoiko@outlook.com). The pandemic affected different sectors of the economy differently. Technology and e-commerce companies, for example, benefited from increased demand for online services, while industries like travel, hospitality, and energy faced significant challenges. Given the nature of data, this is a view on only physical mobility in/out of retail spaces and not the industry as a whole.
 ## Why PR, AS, GU, etc. are not showing?
 I can only speculate, but I guess someone in Google pre-cleaned these datasets that I received and territories were excluded.
 # Result
-These are the U.S. map of month-by-month snapshots combined and stacked together and spun on an infinite loop in 3-year observation. Here, warm colors indicate an increase in traffic to retail spaces, while cooler shades represent retail locations experiencing abandonment. 
+These are the U.S. map aggregated by the states of month-by-month snapshots combined and stacked together and spun on an infinite loop in 3-year observation. Here, warm colors indicate an increase in traffic to retail spaces, while cooler shades represent retail locations experiencing abandonment. 
 
 # Observations
 - Fun fact, I saw an abnormal surge in March 2020 of people moving into retail spaces and I went to Google News to find out the reason for the map turning yellow. We all remember it by a "Toilet Paper Panic" as one of Coronavirus panics that was perfectly demonstrated by my color map [BBC article](https://www.bbc.com/news/world-australia-51731422) 
