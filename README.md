@@ -3,6 +3,8 @@
 ### Hackathon 2022, at Microsoft, 11 Times Square, New York, NY
 ## Problem: Visualize Google mobility data during Covid-19. Created in partnership with Microsoft and the University of Oxford, the A tale of two cities - Exploring the future of work - A Data AI hackathon. 
 I used GeoPandas to create monthly maps of the U.S. and incorporated Photoshop to animate all the maps. This animation showcased Google mobility data for the retail industry only. You might be wondering, why Photoshop? Well, faced with a tight 24-hour deadline and a commitment to timely delivery, I decided to think creatively. I recognized that hackathons aren't the best place to learn something entirely new; they're meant for putting existing skills into practice. So, I opted for a familiar tool. Considering my role as a seller across various marketplaces, this project held personal significance. It was driven by my curiosity about customer behavior during the COVID-19 pandemic that I witnessed, and my aim was to uncover answers to some of my questions.
+![Screen Shot 2023-08-30 at 1 23 21 PM](https://github.com/kakun45/microsoft-hackathon/assets/53381916/1d3009d1-91ed-4d30-bc5d-37386fb355d9)
+
 
 ## What is Google Mobility Data? 
 Google tracks the majority of us (unless you opt out), and that cozy convenient feature that we use - GPS - is feeding these datasets which I had the pleasure to analyze. 
@@ -10,7 +12,7 @@ In this repo, I only show a sample of one of 3 input files `Sample of 2022_US_Re
 ## Why PR, AS, GU, etc. are not showing?
 I can only speculate, but I guess someone in Google pre-cleaned these datasets that I received and territories were excluded.
 # Result
-These are the U.S. map of month-by-month snapshots combined and stacked together and spun on an infinite loop in 3-year observation.
+These are the U.S. map of month-by-month snapshots combined and stacked together and spun on an infinite loop in 3-year observation. Here, warm colors indicate an increase in traffic to retail spaces, while cooler shades represent retail locations experiencing abandonment. 
 
 # Observations
 - Fun fact, I saw an abnormal surge in March 2020 of people moving into retail spaces and I went to Google News to find out the reason for the map turning yellow. We all remember it by a "Toilet Paper Panic" as one of Coronavirus panics that was perfectly demonstrated by my color map [bbs article](https://www.bbc.com/news/world-australia-51731422) 
