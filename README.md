@@ -12,7 +12,7 @@ In this repo, I only show a sample of one of 3 input files: `Sample of 2022_US_R
 ## Why PR, AS, GU, etc. are not showing?
 I can only speculate, but I guess someone in Google pre-cleaned these datasets that I received and territories were excluded.
 # Result
-These are the U.S. map aggregated by the states of month-by-month snapshots combined and stacked together and spun on an infinite loop in 3-year observation. Here, warm colors indicate an increase in traffic to retail spaces, while cooler shades represent retail locations experiencing abandonment. 
+These are my visualizations - the U.S. map aggregated by state using month-by-month snapshots, combined and stacked together, and set to an infinite loop over a 3-year observation period. In this representation, warm colors indicate an increase in traffic to retail spaces, while cooler shades represent retail locations experiencing abandonment. You can find my code and chain of thought process in the `Hackathon_MS.ipynb` file.
 
 # Observations
 - Fun fact, I saw an abnormal surge in March 2020 of people moving into retail spaces and I went to Google News to find out the reason for the map turning yellow. We all remember it by a "Toilet Paper Panic" as one of Coronavirus panics that was perfectly demonstrated by my color map [BBC article](https://www.bbc.com/news/world-australia-51731422) 
