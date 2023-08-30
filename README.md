@@ -15,7 +15,7 @@ I can only speculate, but I guess someone in Google pre-cleaned these datasets t
 These are the U.S. map of month-by-month snapshots combined and stacked together and spun on an infinite loop in 3-year observation. Here, warm colors indicate an increase in traffic to retail spaces, while cooler shades represent retail locations experiencing abandonment. 
 
 # Observations
-- Fun fact, I saw an abnormal surge in March 2020 of people moving into retail spaces and I went to Google News to find out the reason for the map turning yellow. We all remember it by a "Toilet Paper Panic" as one of Coronavirus panics that was perfectly demonstrated by my color map [bbs article](https://www.bbc.com/news/world-australia-51731422) 
+- Fun fact, I saw an abnormal surge in March 2020 of people moving into retail spaces and I went to Google News to find out the reason for the map turning yellow. We all remember it by a "Toilet Paper Panic" as one of Coronavirus panics that was perfectly demonstrated by my color map [BBC article](https://www.bbc.com/news/world-australia-51731422) 
 
 - Another question I asked: "WHY AT THIS TIME?" 
 You might know about the lowest interest rates in decades, (use at 5Y setting) [United States Fed Funds Rate](https://tradingeconomics.com/united-states/interest-rate#:~:text=Interest%20Rate%20in%20the%20United,percent%20in%20December%20of%202008.) .
