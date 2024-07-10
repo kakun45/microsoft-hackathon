@@ -1,6 +1,9 @@
 # Microsoft Hackathon
 ## Author - Xeniya Shoiko, All rights reserved.
 ### Hackathon 2022, at Microsoft, 11 Times Square, New York, NY
+
+Given the tight schedule for delivering my data analysis, I had to think outside the box. In addition to using Pandas and my Python code, I utilized Adobe Suite macros to animate my visuals. I also performed a newsfeed search for the time frame that corresponded with the peaks in the data. This approach successfully and visually impressed the judges, leaving no doubt about my findings.
+
 ## Problem: Visualize Google mobility data during Covid-19. Created in partnership with Microsoft and the University of Oxford, the A tale of two cities - Exploring the future of work - A Data AI hackathon. 
 I used GeoPandas to create monthly maps of the U.S. and incorporated Photoshop to animate all the maps. This animation showcased Google mobility data for the retail industry only. You might be wondering, why Photoshop? Well, faced with a tight 24-hour deadline and a commitment to timely delivery, I decided to think creatively. I recognized that hackathons aren't the best place to learn something entirely new; they're meant for putting existing skills into practice. So, I opted for a familiar tool. Considering my role as a seller across various marketplaces, this project held personal significance. It was driven by my curiosity about customer behavior during the COVID-19 pandemic that I witnessed, and my aim was to uncover answers to some of my questions.
 ![Screen Shot 2023-08-30 at 1 23 21 PM](https://github.com/kakun45/microsoft-hackathon/assets/53381916/1d3009d1-91ed-4d30-bc5d-37386fb355d9)
